@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy, Florencia Flores<br><br>Bienvenido/a a mi perfil de GitHub 💻✨<br><br>## 👩‍🏫 Sobre mí<br>Soy profesora de desarrollo de software apasionada por la tecnología y la enseñanza.  <br>Me dedico a formar estudiantes en programación y buenas prácticas de desarrollo.  <br>Me interesa el desarrollo web, la innovación educativa y el aprendizaje continuo.<br><br>## 📂 Proyectos<br>### 📌 Mi perfil en GitHub 💻<br>Creación de mi perfil .  <br>🔗 https://github.com/FlorenciaLissette/FlorenciaLissette
+¡Hola! Soy, Florencia Flores<br><br>Bienvenidos a mi perfil de GitHub 💻✨<br><br>## 👩‍🏫 Sobre mí<br>Soy profesora de desarrollo de software apasionada por la tecnología y la enseñanza.  <br>Me dedico a formar estudiantes en programación y buenas prácticas de desarrollo.  <br>Me interesa el desarrollo web, la innovación educativa y el aprendizaje continuo.<br><br>## 📂 Proyectos<br>### 📌 Mi perfil en GitHub 💻<br>Creación de mi perfil .  <br>🔗 https://github.com/FlorenciaLissette/FlorenciaLissette
 
 
 ## 🌐 Socials:
